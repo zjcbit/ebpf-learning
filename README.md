@@ -5,3 +5,5 @@
 - [ebpf.io](https://ebpf.io/)
 - [bcc](https://github.com/iovisor/bcc)
 - [极客时间](https://time.geekbang.org/)
+- [learning-ebpf](https://github.com/lizrice/learning-ebpf)
+  
